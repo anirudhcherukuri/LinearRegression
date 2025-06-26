@@ -5,9 +5,8 @@
 - bathrooms
 - furnishingstatus
 - parking
-- ... (others one-hot encoded)
 ## Evaluation
-- MAE: ...
-- MSE: ...
-- R² Score: ...
+- MAE
+- MSE
+- R² Score
 
